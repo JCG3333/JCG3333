@@ -1,0 +1,16 @@
+title: "창근 포트폴리오"
+description: "AI 프로젝트를 가볍게 정리합니다"
+theme: null
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# 기본 설정
+locale: ko
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+
+# 네비게이션
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
